@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "matepek.vscode-catch2-test-adapter",
+        "hbenl.vscode-test-explorer",
+        "xaver.clang-format"
+    ]
+}
