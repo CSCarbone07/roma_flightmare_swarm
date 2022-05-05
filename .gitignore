@@ -1,0 +1,2 @@
+# ignore externals folder which gets regenerated when catkin tools is built
+*/externals/
