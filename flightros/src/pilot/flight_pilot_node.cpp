@@ -13,7 +13,7 @@
 int main(int argc, char** argv) {
 
   ros::init(argc, argv, "flight_pilot");
-  unsigned quad_count = 3;  
+  unsigned quad_count = 9;
   bool useCameras = true;
 
   ros::NodeHandle n;
