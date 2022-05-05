@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-This repo is an extension of the flightmare simulator to include swarms of quadrotors with the
+This repo is an extension of the flightmare simulator to include swarms of quadrotors for the
 AgroSwarm simulator
 
 **Flightmare** original sites
@@ -13,7 +13,7 @@ AgroSwarm simulator
 
 **[Documentation](https://flightmare.readthedocs.io/)** 
 
-**AgroSwarm** repo
+**AgroSwarm** repository
 
 **[Github](https://github.com/CSCarbone07/roma_quad_ai)**
 
